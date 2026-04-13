@@ -1,0 +1,12 @@
+{
+  "export_job_id": "8d1bb40c-027b-428e-965c-9b15a8d8e99c",
+  "id_short": 596794,
+  "published_at": "2026-04-13T19:49:03Z",
+  "repo_name": "restaurant-social-ghosts-in-north-carolina-us-sample-596794",
+  "sample_asset_name": "beamstation_596794_restaurants-us-nc_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/596794/beamstation_596794_restaurants-us-nc_SAMPLE_DIST.csv",
+  "sample_records": 41,
+  "sample_sha256": "d9a7172f37a0d44d63081f86b50aca97a5caa0b24028a5ae493d54a8c693ed3f",
+  "sample_size_bytes": 159231,
+  "total_records": 412
+}
