@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in North Carolina, US
 
-> Free BeamStation sample export with 4 rows and masked direct-contact fields.
+> Free BeamStation sample export with 10 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `596794` |
 | Location | North Carolina |
 | Category | Restaurants |
-| Full dataset size | 41 records |
-| Free sample size | 4 records (9.76%) |
-| Last export | 2026-04-22T18:17:28.930681+00:00 |
+| Full dataset size | 105 records |
+| Free sample size | 10 records (9.52%) |
+| Last export | 2026-04-29T17:46:50.908892+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-north-carolina-us-sample-596794/releases/download/sample-latest/beamstation_596794_restaurants-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
